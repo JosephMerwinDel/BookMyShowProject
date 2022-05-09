@@ -1,0 +1,6 @@
+Title,Genre,Length,Cast,Director,Admin Rating,Timings,Number of Shows in a day,First Show,Interval Time,Gap Between Showserval Time,Capacity,Schedule,isDeleted
+Avengers,Action,4:323,Robert,Joe,5.0,English,5.0,08:00,14.0,30.0,50.0,"{1: ['08:00 AM', '05:37 PM', '50'], 2: ['06:07 PM', '03:44 PM', '50'], 3: ['04:14 PM', '01:51 PM', '50'], 4: ['02:21 PM', '11:58 AM', '50'], 5: ['12:28 PM', '10:05 PM', '50']}",1
+Spiderman,Action,1:35,Holand,mcmi,6.0,English,4.0,9:05,14.0,30.0,50.0,"{1: ['09:05 AM', '10:54 AM', '50'], 2: ['11:24 AM', '01:13 PM', '50'], 3: ['01:43 PM', '03:32 AM', '50'], 4: ['04:02 AM', '05:51 AM', '50']}",0
+Jurrasic Park,Horror,3:00,John,Jess,8.0,English,3.0,8:30,15.0,30.0,50.0,"{1: ['08:30 AM', '11:45 AM', '50'], 2: ['12:15 PM', '03:30 PM', '50'], 3: ['04:00 PM', '07:15 AM', '50']}",0
+Kungfu Panda,Anime,1:35,Joseph,Merwin,7.0,English,4.0,7:00,15.0,30.0,50.0,"{1: ['07:00 AM', '08:50 AM', '50'], 2: ['09:20 AM', '11:10 AM', '50'], 3: ['11:40 AM', '01:30 PM', '50'], 4: ['02:00 PM', '03:50 AM', '50']}",0
+Genesys,Adventure,1:45,Jerry,Tom,6.0,English,4.0,08:00,15.0,25.0,60.0,"{1: ['08:00 AM', '10:00 AM)', '60'], 2: ['10:25 AM', '12:25 PM)', '60'], 3: ['12:50 PM', '02:50 PM)', '60'], 4: ['03:15 PM', '05:15 AM)', '60']}",0
